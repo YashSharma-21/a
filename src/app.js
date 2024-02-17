@@ -22,7 +22,7 @@ hbs.registerPartials(partialsPath);
 //
 
 
-
+//Here we are setting up GET request handler functions
 
 app.get("/", (request,response) => 
 {   
